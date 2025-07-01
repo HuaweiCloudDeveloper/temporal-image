@@ -61,7 +61,7 @@ The open-source image product [**Temporal Distributed Workflow Management Platfo
 | [Temporal1.27.2-arm-v1](https://github.com/HuaweiCloudDeveloper/temporal-image/tree/Temporal1.27.2-arm-v1) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
-- For more questions, you can contact us via [issue](https://github.com/HuaweiCloudDeveloper/streamlit-image/issues) or the service support of the specified product on the Huawei Cloud Marketplace.
+- For more questions, you can contact us via [issue](https://github.com/HuaweiCloudDeveloper/temporal-image/issues) or the service support of the specified product on the Huawei Cloud Marketplace.
 - For other open-source images, see [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos).
 
 ## How to Contribute

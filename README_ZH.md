@@ -65,7 +65,7 @@ Temporal提供了开箱即用的工具，使开发人员能够在需要时查看
 | [Temporal1.27.2-arm-v1](https://github.com/HuaweiCloudDeveloper/temporal-image/tree/Temporal1.27.2-arm-v1) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
-- 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/streamlit-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
+- 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/temporal-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
 - 其他开源镜像可看 [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
 
 ## 如何贡献
