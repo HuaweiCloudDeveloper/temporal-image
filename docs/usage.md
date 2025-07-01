@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Temporal分布式工作流管理平台](https://marketplace.huaweicloud.com/hidden/contents/425948e6-59f9-495d-a472-85db0d636efb?ticket=ST-8178843-lxjuaQ7eWgV2HygvqEbA9JJW-sso#productid=OFFI1121280798300516352)
+[Temporal分布式工作流管理平台](https://marketplace.huaweicloud.com/contents/425948e6-59f9-495d-a472-85db0d636efb?ticket=ST-8178843-lxjuaQ7eWgV2HygvqEbA9JJW-sso#productid=OFFI1121280798300516352)
 
 # 二、商品说明
 
