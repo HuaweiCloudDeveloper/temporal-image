@@ -47,7 +47,7 @@ Temporal如何使查看应用程序的状态变得更容易？
 
 Temporal提供了开箱即用的工具，使开发人员能够在需要时查看应用程序的状态。时态命令行允许开发人员有效地管理、监视和调试时态应用程序。基于浏览器的Web UI允许您快速隔离、调试和解决生产问题。
 
-本项目提供的开源镜像商品 [**Temporal分布式工作流管理平台**](https://marketplace.huaweicloud.com/hidden/contents/425948e6-59f9-495d-a472-85db0d636efb#productid=OFFI1121280798300516352) 已预先安装1.27.2版本的Temporal及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Temporal分布式工作流管理平台**](https://marketplace.huaweicloud.com/contents/425948e6-59f9-495d-a472-85db0d636efb#productid=OFFI1121280798300516352) 已预先安装1.27.2版本的Temporal及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 
 > **系统要求如下：**
@@ -60,9 +60,9 @@ Temporal提供了开箱即用的工具，使开发人员能够在需要时查看
 
 ## 镜像说明
 
-| 镜像规格                                                                                                       | 特性说明 | 备注 |
-|------------------------------------------------------------------------------------------------------------| --- | --- |
-| [Temporal1.27.2-arm-v1](https://github.com/HuaweiCloudDeveloper/temporal-image/tree/Temporal1.27.2-arm-v1) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| 镜像规格                                                                                                         | 特性说明 | 备注 |
+|--------------------------------------------------------------------------------------------------------------| --- | --- |
+| [Temporal-1.27.2-kunpeng](https://github.com/HuaweiCloudDeveloper/temporal-image/tree/Temporal-1.27.2-kunpeng) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/temporal-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系

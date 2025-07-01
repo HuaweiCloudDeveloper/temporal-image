@@ -44,7 +44,7 @@ Choose the SDK that best suits your preferred programming language and start wri
 
 Temporal provides out-of-the-box tools that allow developers to view the state of an application when needed. The Temporal command line enables developers to effectively manage, monitor, and debug Temporal applications. The browser-based Web UI allows you to quickly isolate, debug, and resolve production issues.
 
-The open-source image product [**Temporal Distributed Workflow Management Platform**](https://marketplace.huaweicloud.com/hidden/contents/425948e6-59f9-495d-a472-85db0d636efb#productid=OFFI1121280798300516352) provided by this project has pre-installed Temporal version 1.27.2 and its related runtime environment and provides deployment templates. Come and refer to the usage guide to easily start an efficient "out-of-the-box" experience!
+The open-source image product [**Temporal Distributed Workflow Management Platform**](https://marketplace.huaweicloud.com/contents/425948e6-59f9-495d-a472-85db0d636efb#productid=OFFI1121280798300516352) provided by this project has pre-installed Temporal version 1.27.2 and its related runtime environment and provides deployment templates. Come and refer to the usage guide to easily start an efficient "out-of-the-box" experience!
 
 > **System requirements are as follows:**
 > - CPU: 2vCPUs or higher
@@ -58,7 +58,7 @@ The open-source image product [**Temporal Distributed Workflow Management Platfo
 
 | Image Specification                                                                                                       | Feature Description | Remarks |
 |------------------------------------------------------------------------------------------------------------| --- | --- |
-| [Temporal1.27.2-arm-v1](https://github.com/HuaweiCloudDeveloper/temporal-image/tree/Temporal1.27.2-arm-v1) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Temporal-1.27.2-kunpeng](https://github.com/HuaweiCloudDeveloper/temporal-image/tree/Temporal-1.27.2-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us via [issue](https://github.com/HuaweiCloudDeveloper/temporal-image/issues) or the service support of the specified product on the Huawei Cloud Marketplace.
